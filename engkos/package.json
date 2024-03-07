@@ -1,6 +1,6 @@
 {
   "name": "engkos",
-  "version": "0.1.0",
+  "version": "1.0.2",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -21,5 +21,20 @@
     "autoprefixer": "^10.0.1",
     "postcss": "^8",
     "tailwindcss": "^3.3.0"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rochman72/engkos.git"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "author": "aku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rochman72/engkos/issues"
+  },
+  "homepage": "https://github.com/rochman72/engkos#readme"
 }
